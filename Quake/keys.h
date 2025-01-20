@@ -45,6 +45,7 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 	def (K_LTRIGGER,	/*auto*/,			"LT",				"L2",						"ZL")				\
 	def (K_RTRIGGER,	/*auto*/,			"RT",				"R2",						"ZR")				\
 	def (K_MISC1,		/*auto*/,			NULL,				"MUTE",						"CAPTURE")			\
+	def (K_GUIDE,		/*auto*/,			NULL,				"PS",						"HOME")			\
 	def (K_PADDLE1,		/*auto*/,			"P1 PADDLE",		NULL,						NULL)				\
 	def (K_PADDLE2,		/*auto*/,			"P2 PADDLE",		NULL,						NULL)				\
 	def (K_PADDLE3,		/*auto*/,			"P3 PADDLE",		NULL,						NULL)				\
