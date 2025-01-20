@@ -30,6 +30,7 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 	/*	Keycode			Enum value			XBox name			PlayStation name			Nintendo name	*/	\
 	def (K_START,		= K_GAMEPAD_BEGIN,	"MENU",				"OPTIONS",					"+")				\
 	def (K_BACK,		/*auto*/,			"VIEW",				"CREATE",					"-")				\
+	def (K_GUIDE,		/*auto*/,			NULL,				"PS",						"HOME")			    \
 	def (K_LTHUMB,		/*auto*/,			"LS",				"L3",						"LSB")				\
 	def (K_RTHUMB,		/*auto*/,			"RS",				"R3",						"RSB")				\
 	def (K_LSHOULDER,	/*auto*/,			"LB",				"L1",						"L")				\
@@ -45,7 +46,6 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 	def (K_LTRIGGER,	/*auto*/,			"LT",				"L2",						"ZL")				\
 	def (K_RTRIGGER,	/*auto*/,			"RT",				"R2",						"ZR")				\
 	def (K_MISC1,		/*auto*/,			NULL,				"MUTE",						"CAPTURE")			\
-	def (K_GUIDE,		/*auto*/,			NULL,				"PS",						"HOME")			\
 	def (K_PADDLE1,		/*auto*/,			"P1 PADDLE",		NULL,						NULL)				\
 	def (K_PADDLE2,		/*auto*/,			"P2 PADDLE",		NULL,						NULL)				\
 	def (K_PADDLE3,		/*auto*/,			"P3 PADDLE",		NULL,						NULL)				\
