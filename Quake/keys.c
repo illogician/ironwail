@@ -145,6 +145,7 @@ static const keyname_t keynames[] =
 	{"LTRIGGER", K_LTRIGGER},
 	{"RTRIGGER", K_RTRIGGER},
 	{"MISC1", K_MISC1},
+    {"GUIDE", K_GUIDE},
 	{"PADDLE1", K_PADDLE1},
 	{"PADDLE2", K_PADDLE2},
 	{"PADDLE3", K_PADDLE3},
